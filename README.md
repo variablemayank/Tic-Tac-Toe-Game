@@ -3,7 +3,7 @@ Used Alpha pruning to optimize the search Query Using MinMax algorithm of Artifi
 
 To play the Game Combine all the commits 
 
-Visual View of how the code working after executing. 
+Visual View of how the code works  after executing. 
 
 
 ![Image 1 ](https://github.com/killermayank/Tic-Tac-Toe-Game/blob/master/Pic1%20(6).png)
