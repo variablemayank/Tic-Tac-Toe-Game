@@ -1,8 +1,7 @@
 # Tic-Tac-Toe-Game
 Used Alpha pruning to optimize the search Query Using MinMax algorithm of Artificial Intelligence
 
-To play the Game Combine all the commits 
-
+To play the Game import all the files in main.cpp
 Visual View of how the code works  after executing. 
 
 
